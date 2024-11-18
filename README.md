@@ -25,11 +25,11 @@ dataframe = pd.read_csv("nome do arquivo.csv")
 
 Certifique-se de que o dataset está no mesmo diretório que o notebook.
 O dataset será carregado e explorado para entender suas variáveis principais.
-Pré-processamento dos Dados:
 
-Conversão de colunas contendo valores com sufixos (k, m, b) para valores numéricos.
-Normalização das variáveis contínuas para garantir melhor desempenho do modelo.
-Treinamento do Modelo KNN:
+Pré-processamento dos Dados:
+ - Conversão de colunas contendo valores com sufixos (k, m, b) para valores numéricos.
+ - Normalização das variáveis contínuas para garantir melhor desempenho do modelo.
+ - Treinamento do Modelo KNN:
 
 Definição das variáveis de entrada (features) e das categorias a serem previstas.
 Configuração e treinamento do modelo KNN.
@@ -38,10 +38,10 @@ Visualização da Fronteira de Decisão:
 Geração de gráficos mostrando como o modelo KNN separa os dados com base nas variáveis escolhidas.
 
 Avaliação do Modelo:
- ###Métricas como acurácia e matriz de confusão serão geradas para validar o desempenho do modelo.
+  - Métricas como acurácia e matriz de confusão serão geradas para validar o desempenho do modelo.
 
 # Visualização
-###O notebook inclui visualizações úteis para entender os dados e o comportamento do modelo, como:
+ - O notebook inclui visualizações úteis para entender os dados e o comportamento do modelo, como:
 
 Gráficos de dispersão das variáveis.
 Fronteiras de decisão do modelo KNN.
