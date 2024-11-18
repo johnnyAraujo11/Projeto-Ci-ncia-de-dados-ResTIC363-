@@ -36,11 +36,12 @@ Configuração e treinamento do modelo KNN.
 Visualização da Fronteira de Decisão:
 
 Geração de gráficos mostrando como o modelo KNN separa os dados com base nas variáveis escolhidas.
-Avaliação do Modelo:
 
-# Métricas como acurácia e matriz de confusão serão geradas para validar o desempenho do modelo.
-Visualização
-O notebook inclui visualizações úteis para entender os dados e o comportamento do modelo, como:
+Avaliação do Modelo:
+ ###Métricas como acurácia e matriz de confusão serão geradas para validar o desempenho do modelo.
+
+# Visualização
+###O notebook inclui visualizações úteis para entender os dados e o comportamento do modelo, como:
 
 Gráficos de dispersão das variáveis.
 Fronteiras de decisão do modelo KNN.
